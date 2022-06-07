@@ -2,7 +2,7 @@
 [Perfil Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/424268)
 
 ## 1047 Tempo de Jogo com Minutos
-#include <iostream>
+``#include <iostream>
 using namespace std;
 int main(){
 			int hi, hf, mi, mf, hj, mj;
@@ -62,10 +62,10 @@ int main(){
 					}
 				}
 			}
-}
+}``
 
 ## 1099 Soma de Ímpares Consecutivos II
-#include <iostream>
+``#include <iostream>
 using namespace std;
 int main (){
 			int N, n, X, Y, Z, s;
@@ -101,10 +101,10 @@ int main (){
 			{
 				cout<<soma[s]<<"\n";
 			}
-}
+}``
 
 ## 1115 Quadrante
-#include <iostream>
+``#include <iostream>
 using namespace std;
 int main (){
 			int x, y;
@@ -120,10 +120,10 @@ int main (){
 							cout<<"segundo"<<'\n';}
 						else{
 							cout<<"terceiro"<<'\n';}}
-					cin>>x>>y;}}
+					cin>>x>>y;}}``
 
 ## 1131 - Grenais
-#include <iostream>
+``#include <iostream>
 using namespace std;
 int main (){
 			int INT, GRE, GOLINT, GOLGRE, i, x, VINT, VGRE, EMP;
@@ -202,10 +202,10 @@ int main (){
 					}
 				}
 			}
-}
+}``
 
 ## 1132 Múltiplos de 13
-#include <iostream>
+``#include <iostream>
 using namespace std;
 int main (){
 			int soma, X, Y, i;
@@ -236,10 +236,10 @@ int main (){
 				}
 				cout<<soma<<'\n';
 			}
-}
+}``
 
 ## 1134 Tipo de Combustível
-#include <iostream>
+``#include <iostream>
 using namespace std;
 int main (){
 			int A, G, D, Comb;
@@ -276,10 +276,10 @@ int main (){
 			cout<<"Alcool: "<<A<<'\n';
 			cout<<"Gasolina: "<<G<<'\n';
 			cout<<"Diesel: "<<D<<'\n';
-}
+}``
 
 ## 1145 Sequência Lógica 2
-#include <iostream>
+``#include <iostream>
 using namespace std;
 int main (){
 			int x, y, i, j;
@@ -302,10 +302,10 @@ int main (){
 					}
 				}
 			}
-}
+}``
 
 ## 1146 Sequências Crescentes
-#include <iostream>
+``#include <iostream>
 using namespace std;
 int main (){
 			int x, i;
@@ -326,10 +326,10 @@ int main (){
 				}
 				cin>>x;
 			}
-}
+}``
 
 ## 1149 Somando Inteiros Consecutivos
-#include <iostream>
+``#include <iostream>
 using namespace std;
 int main (){
 			int A, N, i, soma;
@@ -347,10 +347,10 @@ int main (){
 				soma=soma+(A+i);
 			}
 			cout<<soma<<'\n';
-}
+}``
 
 ## 1150 Ultrapassando Z
-#include <iostream>
+``#include <iostream>
 using namespace std;
 int main (){
 			int x, z, i, j, soma;
@@ -369,10 +369,10 @@ int main (){
 				j++;
 			}
 			cout<<j<<'\n';
-}
+}``
 
 ## 1151 Fibonacci Fácil
-#include <iostream>
+``#include <iostream>
 using namespace std;
 int main (){
 			int x, i, soma, p;
@@ -403,10 +403,10 @@ int main (){
 					}
 				}
 			}
-}
+}``
 
 ## 1153 Fatorial Simples
-#include <iostream>
+``#include <iostream>
 using namespace std;
 int main (){
 			int i, n, fatorial;
@@ -420,10 +420,10 @@ int main (){
 				}
 				cout<<fatorial<<'\n';
 			}
-}
+}``
 
 ## 1154 Idades
-#include <iostream>
+``#include <iostream>
 #include <iomanip>
 using namespace std;
 int main (){
@@ -439,10 +439,10 @@ int main (){
 			media=(soma/i);
 			cout<<fixed<<setprecision(2);
 			cout<<media<<'\n';
-}
+}``
 
 ## 1155 Sequência S
-#include <iostream>
+``#include <iostream>
 #include <iomanip>
 using namespace std;
 int main (){
@@ -454,10 +454,10 @@ int main (){
 			}
 			cout<<fixed<<setprecision(2);
 			cout<<S<<'\n';
-}
+}``
 
 ## 1156 Sequência S II
-#include <iostream>
+``#include <iostream>
 #include <iomanip>
 using namespace std;
 int main (){
@@ -469,10 +469,10 @@ int main (){
 			}
 			cout<<fixed<<setprecision(2);
 			cout<<S<<'\n';
-}
+}``
 
 ## 1157 Divisores I
-#include <iostream>
+``#include <iostream>
 using namespace std;
 int main (){
 			int n, i;
@@ -484,7 +484,7 @@ int main (){
 					cout<<i<<'\n';
 				}
 			}
-}
+}``
 
 
 
