@@ -1,7 +1,7 @@
-#RESOLUÇÕES EXERCÍCIOS PLATAFORMA BEECROWD - C++
+# RESOLUÇÕES EXERCÍCIOS PLATAFORMA BEECROWD - C++
 [Perfil Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/424268)
 
-##1047 Tempo de Jogo com Minutos
+## 1047 Tempo de Jogo com Minutos
 #include <iostream>
 using namespace std;
 int main(){
@@ -64,7 +64,7 @@ int main(){
 			}
 }
 
-##1099 Soma de Ímpares Consecutivos II
+## 1099 Soma de Ímpares Consecutivos II
 #include <iostream>
 using namespace std;
 int main (){
@@ -103,7 +103,7 @@ int main (){
 			}
 }
 
-##1115 Quadrante
+## 1115 Quadrante
 #include <iostream>
 using namespace std;
 int main (){
@@ -122,7 +122,7 @@ int main (){
 							cout<<"terceiro"<<'\n';}}
 					cin>>x>>y;}}
 
-##1131 - Grenais
+## 1131 - Grenais
 #include <iostream>
 using namespace std;
 int main (){
@@ -204,7 +204,7 @@ int main (){
 			}
 }
 
-##1132 Múltiplos de 13
+## 1132 Múltiplos de 13
 #include <iostream>
 using namespace std;
 int main (){
@@ -238,7 +238,7 @@ int main (){
 			}
 }
 
-##1134 Tipo de Combustível
+## 1134 Tipo de Combustível
 #include <iostream>
 using namespace std;
 int main (){
@@ -278,7 +278,7 @@ int main (){
 			cout<<"Diesel: "<<D<<'\n';
 }
 
-##1145 Sequência Lógica 2
+## 1145 Sequência Lógica 2
 #include <iostream>
 using namespace std;
 int main (){
@@ -304,7 +304,7 @@ int main (){
 			}
 }
 
-##1146 Sequências Crescentes
+## 1146 Sequências Crescentes
 #include <iostream>
 using namespace std;
 int main (){
@@ -328,7 +328,7 @@ int main (){
 			}
 }
 
-##1149 Somando Inteiros Consecutivos
+## 1149 Somando Inteiros Consecutivos
 #include <iostream>
 using namespace std;
 int main (){
@@ -349,7 +349,7 @@ int main (){
 			cout<<soma<<'\n';
 }
 
-##1150 Ultrapassando Z
+## 1150 Ultrapassando Z
 #include <iostream>
 using namespace std;
 int main (){
@@ -371,7 +371,7 @@ int main (){
 			cout<<j<<'\n';
 }
 
-##1151 Fibonacci Fácil
+## 1151 Fibonacci Fácil
 #include <iostream>
 using namespace std;
 int main (){
@@ -405,7 +405,7 @@ int main (){
 			}
 }
 
-##1153 Fatorial Simples
+## 1153 Fatorial Simples
 #include <iostream>
 using namespace std;
 int main (){
@@ -422,7 +422,7 @@ int main (){
 			}
 }
 
-##1154 Idades
+## 1154 Idades
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -441,7 +441,7 @@ int main (){
 			cout<<media<<'\n';
 }
 
-##1155 Sequência S
+## 1155 Sequência S
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -456,7 +456,7 @@ int main (){
 			cout<<S<<'\n';
 }
 
-##1156 Sequência S II
+## 1156 Sequência S II
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -471,7 +471,7 @@ int main (){
 			cout<<S<<'\n';
 }
 
-##1157 Divisores I
+## 1157 Divisores I
 #include <iostream>
 using namespace std;
 int main (){
