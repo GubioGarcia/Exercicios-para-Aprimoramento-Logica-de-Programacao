@@ -1,2 +1,2 @@
-# Exercicios-para-Aprimoramento-Logica-de-Programacao
-Códigos e resoluções
+# Resoluções de exercícios plataforma BEECROWD
+[Perfil Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/424268)
